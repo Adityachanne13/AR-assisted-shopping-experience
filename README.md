@@ -12,7 +12,6 @@
  - [Build](#build)
  - [A note on debugging](#debug)
  - [Open Source Programs](#open-source)
- - [Project-admin](#project-admin)
  - [Contributors](#contributors)
   
 <a name="why"></a>
