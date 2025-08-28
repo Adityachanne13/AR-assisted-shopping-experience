@@ -1,5 +1,5 @@
 import "./About.css";
-import ContributorSection from './ContributorSection';
+// import ContributorSection from './ContributorSection';
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import tick from './tick.png';
@@ -159,19 +159,20 @@ const About = () => {
                     </ul>
                 </div>
             </div>
-            <div><h1 className="second-head fromtop-anim">Project Admin</h1>
-                <a href="#"><div className="about-admin-box fade-effect"><img className="about-admin-img" src="#" /><p className="about-admin">Aditya channe</p></div></a></div>
-            <div><h1 className="second-head fromtop-anim" style={{ "marginTop": "13vh" }}>Contributors</h1>
-                <p className="second-head fromtop-anim" style={{ "color": "blue" }}><b>Credits go to these contributors:</b></p>
-                <ContributorSection />
+//             <div><h1 className="second-head fromtop-anim">Project Admin</h1>
+//                 <a href="#"><div className="about-admin-box fade-effect"><img className="about-admin-img" src="#" /><p className="about-admin">Aditya channe</p></div></a></div>
+//             <div><h1 className="second-head fromtop-anim" style={{ "marginTop": "13vh" }}>Contributors</h1>
+//                 <p className="second-head fromtop-anim" style={{ "color": "blue" }}><b>Credits go to these contributors:</b></p>
+//                 <ContributorSection />
 
 
-                {showScrollUpButton && (
-        <button className='scroll-up-button' onClick={scrollToTop}>
-<FontAwesomeIcon icon={faArrowUp} />
-   </button>
-      )}
-            </div>
+//                 {showScrollUpButton && (
+//         <button className='scroll-up-button' onClick={scrollToTop}>
+// <FontAwesomeIcon icon={faArrowUp} />
+//    </button>
+//       )}
+//             </div>
+                <br/>
         </>
 
     );
