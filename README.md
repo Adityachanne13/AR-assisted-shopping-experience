@@ -31,8 +31,6 @@ It provides you a list of e-commerce products along with their 3D photorealistic
 
 ## 👀 Preview
 
-## [Live Link](https://ar-webstore.netlify.app/)
-
 <div style="display:flex;">
   <img src="https://github.com/ShwetKhatri2001/AR-Webstore/assets/56475750/0086f8a4-6f5e-4fcb-a2a8-da6e3c50a745" 
             alt="before" height="450"/>
