@@ -1,18 +1,4 @@
 <h1 align="center">🚀 AR-Webstore</h1>
-
-## Table of Contents
-
- - [Why AR-Webstore?](#why)
- - [Current State of Project](#current)
- - [Preview](#preview)
- - [Future Goals](#goals)
- - [Resources](#resources)
- - [Technologies Used](#tech)
- - [Setting up the project](#setup)
- - [Build](#build)
- - [A note on debugging](#debug)
- - [Open Source Programs](#open-source)
- - [Contributors](#contributors)
   
 <a name="why"></a>
 ##   Why AR-Webstore? 
